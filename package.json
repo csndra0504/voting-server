@@ -9,7 +9,9 @@
   },
   "author": "",
   "babel": {
-    "presets": ["es2015"]
+    "presets": [
+      "es2015"
+    ]
   },
   "license": "ISC",
   "devDependencies": {
@@ -18,5 +20,8 @@
     "babel-preset-es2015": "^6.13.2",
     "chai": "^3.5.0",
     "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "redux": "^3.5.2"
   }
 }
